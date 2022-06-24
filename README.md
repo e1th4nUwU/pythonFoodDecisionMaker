@@ -9,6 +9,8 @@ Have you ever been hungry but haven't been able to decide just what to eat? Well
  <li>Click the "Obtener recomendación" button ☝</li>
  <li>Done! ✅</li>
 </ol>
+
+![Program image](https://github.com/e1th4nUwU/pythonFoodDecisionMaker/blob/main/img/img.png?raw=true)
  
 ## How does it work ❓
 Although it may seem that you are just selecting checkboxes in order to recommend which food to give you, the
